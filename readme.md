@@ -59,7 +59,7 @@ Social Structure:
 Potential Risks:
 
 1. Political risks
-- Totalitarian full thoughts monitoring and control
+- Totalitarian society with thoughts monitoring and control
 - Single, global control of all organizations and political entities on the planet
 - Loss of autonomy
 - Cognitive homogenization
