@@ -6,7 +6,7 @@ Hive Mind Society Overview:
 
 ### Core Definition:
 
-Centralized US-created and US-controlled collective consciousness system where multiple individual minds are interconnected through neural technology to create a shared cognitive network.
+Centralized US-created and US-controlled collective consciousness system where multiple individual minds are interconnected through neural technology (BCI) to create a shared cognitive network.
 - MITM-type communication, orchestrated by centralized AI system as an operator. The data is stored near OpenAI and Azure data centers - military-grade level of protection.
 - Active onboarding inside multiple closed social circles like private business clubs, rotary club, freemasonry around the World. 
 - Corporations-level onboarding is in the active phase.
