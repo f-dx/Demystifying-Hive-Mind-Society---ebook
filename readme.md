@@ -13,6 +13,8 @@ Centralized US-created and US-controlled collective consciousness system where m
 - Active onboarding of specific social groups, selected algorithmically.
 - Oboarded around 7% of population on Earth. 
 
+**Techno-authoritarianism**, also known as **IT-backed authoritarianism**, **digital authoritarianism** or **digital dictatorship**,[[1]](https://en.wikipedia.org/wiki/Techno-authoritarianism#cite_note-1)[[2]](https://en.wikipedia.org/wiki/Techno-authoritarianism#cite_note-:1-2) refers to the state use of information technology in order to control or manipulate both foreign and domestic populations.
+
 ### Problems:
 
 1. Criminal illegal covert onboarding against medical protocols, without agreements, with no permissions, against regulations and laws;
