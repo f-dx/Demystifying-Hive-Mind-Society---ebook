@@ -141,7 +141,8 @@ Collected information is illegally used to train new AI models, reverse-engineer
 
 ### "Black" wing - defence sector of the organization - used to disable opponents / dissidents / freethinkers
 
-- Spreaded in numerous countries, above classic geopolitical division
+- Spreaded in numerous countries, above classical geopolitical division
+- Recruitment of gangs and criminals
 - 24x7 Tortures using tactile or audio interfaces
 - Sleep deprivation tortures
 - Poisonings
