@@ -84,6 +84,15 @@ Centralized US-created and US-controlled collective consciousness system where m
 2. To advertise and promote the network itself - manipulations and lie
 3. To promote certain behavior - training and personality alterting for benefits of the network
 4. To deliver messages from other network members - intrusive communication
+5. Sleep deprivation is used to supress human will, to make a person more agreeable, take benefit later
+6. To disconnect a person from subconscious mind to supress his will easier
+
+### Political world
+
+1. Influence critical political decisions in a hidden manner
+2. Change laws and regulations to avoid Neural Laws and Neural Rights protection
+3. The network always acts in the interest of the minority - world elites: large corporations holders, rich families, etc. (hypothesis to verify)
+4. Hidden communication to hide the truth
 
 - 
 
