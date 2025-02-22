@@ -52,7 +52,6 @@ Centralized US-created and US-controlled collective consciousness system where m
 5. Prevents any attempts for direct and honest communication about the tool usage. The tool itself is a kind of a "tabu".
 6. Discriminative policies for selecting job candidates based on "connected" / "disconnected" status
 
-
 ### Streets behavior
 
 1. Society members instructed about micro-tasks through neural interfaces - all for rewards and gamification using BCI
@@ -66,7 +65,17 @@ Centralized US-created and US-controlled collective consciousness system where m
 9. Micro-operations: help someone to find the road (via hidden gestures), direct someone, recommend to avoid something, etc.
 10. In the worst case scenario: support for assasination operations (without awarness of network members)
 
+### Home behavior
 
+1. No privacy at all - all life, including thoughts and visual images - tracked, recorded and analyzed by AI for further exploitation of human mind
+2. Partially information is broadcasted to neighbours - around 1-3km radius, depending on density of buildings
+3. High-level members can control BCI of low-level members: it means full access to real-time data, senses injections (audio/video/tactile/pain), dreams manipulations, etc.
+4. AI orchestrator has unlimited access to all BCIs at any moment of time
+
+### Work behavior (for targeted individuals)
+
+1. Always monitoring your work - no chance to stop the monitoring.
+2. Intrusive behavior to "optimize" your efficiency, in other terms, "digital slavery".
 - 
 
 Technical Components:
