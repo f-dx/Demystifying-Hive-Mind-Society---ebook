@@ -38,7 +38,7 @@ Centralized US-created and US-controlled collective consciousness system where m
 2. BCI activation and tuning
 3. Silent brain monitoring phase - full remote surveillance
 4. Synthetic dreams and consciousness manipulation
-5. About 20 multi-level strategies for onboarding - fundamenally based on: manipulations, lie, deception, threatening, bribes and corruption, synthetic drugs (using BCI)
+5. About 20 multi-level strategies for onboarding - fundamenally based on: SOTA social engineering, manipulations, lie, deception, threatening, bribes and corruption, synthetic drugs (using BCI)
 6. Partial BCI activation - 1-2 interfaces (tactile + audio, for example)
 7. Full BCI activation (all senses) and deep integration into the network - loss of free will, loss of individuality, inability to escape
 8. In 70% of the cases: inability to percieve and understand mind slavery - altered mindset
@@ -128,7 +128,11 @@ Bribe: Perfect recall
 Greeting: "Everyone needs a secret friend. I'll be yours forever."
 Bribe: Never feeling alone
 
-- 
+### Replacement and distortion of natural communication
+The network uses gestures, dress codes, specific patterns and key phrases to recognize members of the society.
+However during the communication it's forbidden to mention the technology itself. It means that the network is based around lie and deception from the early beginning. 
+Nobody knows about experience of other group members. 
+Moreover - the information in the network is distorted, often altered, to keep so called "AI bubble" - isolated information environment for every group member.
 
 Technical Components:
 
