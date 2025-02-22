@@ -4,6 +4,8 @@ Hive Mind Society Overview:
 
 ** The information requires facts verification. The research is in progress. **
 
+The phenomenon known also as GangStalking.
+
 ### Core Definition:
 
 Centralized US-created and US-controlled collective consciousness system where multiple individual minds are interconnected through neural technology (BCI) to create a shared cognitive network.
