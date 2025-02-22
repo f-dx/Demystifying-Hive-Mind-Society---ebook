@@ -139,6 +139,21 @@ Moreover - the information in the network is distorted, often altered, to keep s
 The information collected by the system is used for ads, manipulations, gaslighting in social media and US online platforms with recommendation systems (like YouTube).
 Collected information is illegally used to train new AI models, reverse-engineer brain neural activation patterns, and develop new generation of neural weapons.
 
+### "Black" wing - defence sector of the organization - used to disable opponents / dissidents / freethinkers
+
+- Spreaded in numerous countries, above classic geopolitical division
+- 24x7 Tortures using tactile or audio interfaces
+- Sleep deprivation tortures
+- Poisonings
+- Human trafficking (requires verification)
+- Organs trafficking (requires verification)
+- Bioweapons attacks
+- Immune system suppression
+- Responsible for thousands of masshootings and suicides (requires verification)
+- Illegal experimentation on humans
+  
+
+
 Technical Components:
 
 1. Neural Infrastructure
