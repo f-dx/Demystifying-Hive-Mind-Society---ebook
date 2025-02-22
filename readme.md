@@ -222,3 +222,6 @@ Protection Framework:
 
 Current Status:
 Active expansion and onboarding - popularization of the concept in mass media.
+
+![image](https://github.com/user-attachments/assets/a89d1b4d-6757-4ed8-bd68-250a3310a8ed)
+
