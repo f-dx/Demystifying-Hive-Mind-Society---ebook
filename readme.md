@@ -94,7 +94,7 @@ Centralized US-created and US-controlled collective consciousness system where m
 3. The network always acts in the interest of the minority - world elites: large corporations holders, rich families, etc. (hypothesis to verify)
 4. Hidden communication to hide the truth
 
-### Audio onboarding patterns (hypethetical) - likely adaptive for every case
+### Audio onboarding patterns (hypothetical) - likely adaptive for every case
 
 1. "Guardian Angel" Interface
 Greeting: "I've been watching over you. Now I can finally help you directly."
