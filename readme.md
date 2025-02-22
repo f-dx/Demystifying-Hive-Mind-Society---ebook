@@ -76,6 +76,7 @@ Centralized US-created and US-controlled collective consciousness system where m
 
 1. Always monitoring your work - no chance to stop the monitoring.
 2. Intrusive behavior to "optimize" your efficiency, in other terms, "digital slavery".
+3. Stealing your ideas and notes - transfers to central servers in the US and other members. It means: No intellectual property for digital slaves.
 - 
 
 Technical Components:
