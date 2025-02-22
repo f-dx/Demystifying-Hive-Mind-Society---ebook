@@ -43,6 +43,15 @@ Centralized US-created and US-controlled collective consciousness system where m
 7. Full BCI activation (all senses) and deep integration into the network - loss of free will, loss of individuality, inability to escape
 8. In 70% of the cases: inability to percieve and understand mind slavery - altered mindset
 
+### Corporate world
+
+1. Utilized silently for surveillance against contractors and employees - rude violation of human rights and privacy
+2. Popularization as a tool for hidden communication via multiple channels
+3. Proposes material compensation (bribes, corruption, black schemes) for the system support and popularization
+4. Used for threatening and manipulations against those who are not connected or partially connected
+5. Prevents any attempts for direct and honest communication about the tool usage. The tool itself is kind of "tabu".
+6. Discriminative policies for selecting job candidates based on "connected" / "disconnected" status
+
 - 
 
 Technical Components:
