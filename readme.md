@@ -49,7 +49,7 @@ Centralized US-created and US-controlled collective consciousness system where m
 2. Popularization as a tool for hidden communication via multiple channels
 3. Proposes material compensation (bribes, corruption, black schemes) for the system support and popularization
 4. Used for threatening and manipulations against those who are not connected or partially connected
-5. Prevents any attempts for direct and honest communication about the tool usage. The tool itself is kind of "tabu".
+5. Prevents any attempts for direct and honest communication about the tool usage. The tool itself is a kind of a "tabu".
 6. Discriminative policies for selecting job candidates based on "connected" / "disconnected" status
 
 
