@@ -147,6 +147,8 @@ Collected information is illegally used to train new AI models, reverse-engineer
 - 24x7 Tortures using tactile or audio interfaces
 - Sleep deprivation tortures
 - Poisonings
+- Memory erasion
+- Directed energy weapons
 - Human trafficking (requires verification)
 - Organs trafficking (requires verification)
 - Bioweapons attacks
