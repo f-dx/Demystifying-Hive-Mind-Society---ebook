@@ -77,6 +77,14 @@ Centralized US-created and US-controlled collective consciousness system where m
 1. Always monitoring your work - no chance to stop the monitoring.
 2. Intrusive behavior to "optimize" your efficiency, in other terms, "digital slavery".
 3. Stealing your ideas and notes - transfers to central servers in the US and other members. It means: No intellectual property for digital slaves.
+
+### Sleep - synthetic dreams
+
+1. Used to suppress personal memories and free will - basically, brainwashing
+2. To advertise and promote the network itself - manipulations and lie
+3. To promote certain behavior - training and personality alterting for benefits of the network
+4. To deliver messages from other network members - intrusive communication
+
 - 
 
 Technical Components:
