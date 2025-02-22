@@ -63,7 +63,7 @@ Centralized US-created and US-controlled collective consciousness system where m
 7. Monitor streets via eyes and ears of connected - full-mode surveillance to scan street crowds
 8. Onboarding of members by showing gestures and key phrases to control BCI - everything is organized to make it feel like an elite club, but in fact it's a US-organized mind slavery
 9. Micro-operations: help someone to find the road (via hidden gestures), direct someone, recommend to avoid something, etc.
-10. In the worst case scenario: support for never-ending psychological torturtures or assasination operations (without awarness of network members)
+10. In the worst case scenario: support for never-ending psychological tortures or assasination operations (without awarness of network members)
 
 ### Home behavior
 
