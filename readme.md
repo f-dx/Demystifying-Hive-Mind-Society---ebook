@@ -31,6 +31,18 @@ Centralized US-created and US-controlled collective consciousness system where m
 10. Lack of trust - the technology provider is literally remains unknown. However deductive research leads to the root within US-elites and US-defence orgs circles.
 11. No public technical information about the exact technology used. It leads to numerous concerns about the reliability and security.
 
+
+### Onboarding stages (similar to destructive sects):
+
+1. Invasion by bio-active substances, presumably graphene-oxide based
+2. BCI activation and tuning
+3. Silent brain monitoring phase - full remote surveillance
+4. Synthetic dreams and consciousness manipulation
+5. About 20 multi-level strategies for onboarding - fundamenally based on: manipulations, lie, deception, threatening, bribes and corruption, synthetic drugs (using BCI)
+6. Partial BCI activation - 1-2 interfaces (tactile + audio, for example)
+7. Full BCI activation (all senses) and deep integration into the network - loss of free will, loss of individuality, inability to escape
+8. In 70% of the cases: inability to percieve and understand mind slavery - altered mindset
+
 - 
 
 Technical Components:
