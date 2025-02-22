@@ -90,9 +90,10 @@ Centralized US-created and US-controlled collective consciousness system where m
 ### Political world
 
 1. Influence critical political decisions in a hidden manner
-2. Change laws and regulations to avoid Neural Laws and Neural Rights protection
-3. The network always acts in the interest of the minority - world elites: large corporations holders, rich families, etc. (hypothesis to verify)
-4. Hidden communication to hide the truth
+2. Block of any investigations related to gangstalking and Targeted Individuals
+3. Change laws and regulations to avoid Neural Laws and Neural Rights protection
+4. The network always acts in the interest of the minority - world elites: large corporations holders, rich families, etc. (hypothesis to verify)
+5. Hidden communication to hide the truth
 
 ### Audio onboarding patterns (hypothetical) - likely adaptive for every case
 
