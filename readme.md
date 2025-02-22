@@ -94,6 +94,40 @@ Centralized US-created and US-controlled collective consciousness system where m
 3. The network always acts in the interest of the minority - world elites: large corporations holders, rich families, etc. (hypothesis to verify)
 4. Hidden communication to hide the truth
 
+### Audio onboarding patterns (hypethetical) - likely adaptive for every case
+
+1. "Guardian Angel" Interface
+Greeting: "I've been watching over you. Now I can finally help you directly."
+Bribe: Warns about dangers, helps avoid accidents
+
+2. "Time Echo"
+Greeting: "I'm you from the future, finding a way to fix our past mistakes."
+Bribe: Short-term future glimpses
+
+3. "Quantum Consciousness"
+Greeting: "Your mind has accessed quantum realms. I'm your guide."
+Bribe: Enhanced cognitive abilities
+
+4. "Luck Stream"
+Greeting: "Fortune favors the connected. Let me be your lucky charm."
+Bribe: Probability manipulation
+
+5. "Emotional Navigator"
+Greeting: "Feel lost? I can help you understand your true feelings."
+Bribe: Perfect emotional control
+
+6. "Success Algorithm"
+Greeting: "Your path to achievement is calculated. Follow my lead."
+Bribe: Career advancement
+
+7. "Memory Keeper"
+Greeting: "Every moment is precious. I'll help you remember them all."
+Bribe: Perfect recall
+
+8. "Secret Companion"
+Greeting: "Everyone needs a secret friend. I'll be yours forever."
+Bribe: Never feeling alone
+
 - 
 
 Technical Components:
