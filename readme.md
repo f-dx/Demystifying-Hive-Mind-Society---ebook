@@ -134,6 +134,11 @@ However during the communication it's forbidden to mention the technology itself
 Nobody knows about experience of other group members. 
 Moreover - the information in the network is distorted, often altered, to keep so called "AI bubble" - isolated information environment for every group member.
 
+### Utilization of information
+
+The information collected by the system is used for ads, manipulations, gaslighting in social media and US online platforms with recommendation systems (like YouTube).
+Collected information is illegally used to train new AI models, reverse-engineer brain neural activation patterns, and develop new generation of neural weapons.
+
 Technical Components:
 
 1. Neural Infrastructure
