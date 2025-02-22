@@ -52,6 +52,21 @@ Centralized US-created and US-controlled collective consciousness system where m
 5. Prevents any attempts for direct and honest communication about the tool usage. The tool itself is kind of "tabu".
 6. Discriminative policies for selecting job candidates based on "connected" / "disconnected" status
 
+
+### Streets behavior
+
+1. Society members instructed about micro-tasks through neural interfaces - all for rewards and gamification using BCI
+2. Block a person - car incidents, block a car, block a street, block someone in a transport, etc.
+3. Non-direct threatening - shouting, whispering relevant words, etc.
+4. Gaslighting - organized scenes designed specifically for someone
+5. Support a person of interest - provides guidance and support for selected ones - those who support the system
+6. Prevent crimes - intelligently identifies and early prevents street crimes
+7. Monitor streets via eyes and ears of connected - full-mode surveillance to scan street crowds
+8. Onboarding of members by showing gestures and key phrases to control BCI - everything is organized to make it feel like an elite club, but in fact it's a US-organized mind slavery
+9. Micro-operations: help someone to find the road (via hidden gestures), direct someone, recommend to avoid something, etc.
+10. In the worst case scenario: support for assasination operations (without awarness of network members)
+
+
 - 
 
 Technical Components:
