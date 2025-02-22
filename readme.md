@@ -158,7 +158,7 @@ Collected information is illegally used to train new AI models, reverse-engineer
   
 
 
-Technical Components:
+### Technical Components:
 
 1. Neural Infrastructure
 - Synchronized BCI networks
